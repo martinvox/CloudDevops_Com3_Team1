@@ -24,11 +24,18 @@ Rol del proyecto: Site Reliability Engineering (SRE)\
 Email: simonramosb@gmail.com\
 LinkedIn: https://www.linkedin.com/in/simon-ramos/ \
 Rol Laboral: Fullstack Developer\
-Carrera EducacionIT: Curso cloud DevOps
+Carrera EducacionIT: Cloud DevOps
 
 Nombre: Leonardo Ramirez\
 Rol del proyecto: Dev Team\
 Email: lramirez@sugit.com.ar\
 LinkedIn: https://www.linkedin.com/in/jleoramirezm/ \
 Rol Laboral: Software Architect\
+Carrera EducacionIT: Cloud DevOps
+
+Nombre: Daniel Abt\
+Rol del proyecto: Dev Team\
+Email: abtdaniel@gmail.com\
+LinkedIn: linkedin.com/in/daniel-abt \
+Rol laboral: Responsable IT\
 Carrera EducacionIT: Cloud DevOps
