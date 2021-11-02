@@ -46,3 +46,5 @@ Email: damianroch@yahoo.com.ar\
 LinkedIn: linkedin.com/in/damián-roch-888638171 \
 Rol laboral: IT\
 Carrera EducacionIT: Cloud DevOps
+
+TBD: Fernando Sierra - Rodrigo Rios - Roger Diaz
