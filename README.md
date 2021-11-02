@@ -39,3 +39,10 @@ Email: abtdaniel@gmail.com\
 LinkedIn: linkedin.com/in/daniel-abt \
 Rol laboral: Responsable IT\
 Carrera EducacionIT: Cloud DevOps
+
+Nombre: Damian Roch\
+Rol del proyecto: Dev Team\
+Email: damianroch@yahoo.com.ar\
+LinkedIn: linkedin.com/in/damián-roch-888638171 \
+Rol laboral: IT\
+Carrera EducacionIT: Cloud DevOps
