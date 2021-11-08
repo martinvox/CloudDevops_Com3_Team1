@@ -51,4 +51,11 @@ LinkedIn:
 Rol laboral: Devops\
 Carrera EducacionIT: Cloud DevOps
 
-TBD: Fernando Sierra - Rodrigo Rios - Roger Diaz
+Nombre: Rodrigo Rios\
+Rol del proyecto: Dev Team\
+Email: rodrigoalejandrorios94@gmail.com\
+LinkedIn: https://www.linkedin.com/in/rodrigoalejandrorios/ \
+Rol laboral: Desarrollador - DevOps\
+Carrera EducacionIT: Cloud DevOps
+
+TBD: Fernando Sierra - Roger Diaz
